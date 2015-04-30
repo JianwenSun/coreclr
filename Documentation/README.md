@@ -20,6 +20,11 @@ Build CoreCLR from Source
 - [Testing CoreCLR Changes](test-instructions.md)
 - [Creating a Custom DNX](dnx-instructions.md)
 
+.NET Primer
+===========
+
+- [.NET Primer](dotnet-primer.md)
+
 Book of the Runtime
 ===================
 
